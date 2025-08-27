@@ -1,0 +1,22 @@
+{
+    "Arroz": {
+        "pre\u00e7o": 19.9,
+        "data_validade": "28/01/2025"
+    },
+    "Feijao": {
+        "pre\u00e7o": 11.99,
+        "data_validade": "23/03/2025"
+    },
+    "A\u00e7ucar": {
+        "pre\u00e7o": 8.99,
+        "data_validade": "26/06/2025"
+    },
+    "Macarrao": {
+        "pre\u00e7o": 13.99,
+        "data_validade": "12/06/2025"
+    },
+    "oleo": {
+        "pre\u00e7o": 14.99,
+        "data_validade": "30/06/2025"
+    }
+}
